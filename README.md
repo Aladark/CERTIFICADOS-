@@ -13,10 +13,12 @@ Sou um profissional de TI especializado com experiência em diversas áreas tecn
 
 Abaixo estão algumas das certificações que obtive ao longo da minha carreira:
 
-[[DESENVOLVENDO APLICAÇÕES MOBILE COM
-ANDROID STUDIO](https://github.com/Aladark/CERTIFICADOS-/blob/main/Certificado.pdf)]
+[DESENVOLVENDO APLICAÇÕES MOBILE COM
+ANDROID STUDIO](https://github.com/Aladark/CERTIFICADOS-/blob/main/Certificado.pdf)
+
 [DESENVOLVIMENTO
  ORIENTADO A OBJETOS UTILIZANDO A LINGUAGEM PYTHON](https://github.com/Aladark/CERTIFICADOS-/blob/main/Escola%20Virtual%20-%20Funda%C3%A7%C3%A3o%20Bradesco%20-%20Orientado%20a%20Obejetos%20Utilizando%20Linguagem%20Python.pdf)
+ 
 [![Certificação 3](URL_da_imagem_da_certificação_3)](URL_do_certificado_3)
 
 *Observação: Clique nas links para visualizar os certificados completos.*
