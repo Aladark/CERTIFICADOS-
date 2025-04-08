@@ -13,7 +13,7 @@ Sou um profissional de TI especializado com experiência em diversas áreas tecn
 
 Abaixo estão algumas das certificações que obtive ao longo da minha carreira:
 
-[![Certificação 1](URL_da_imagem_da_certificação_1)](URL_do_certificado_1)
+[![Certificação 1](file:///C:/Users/FrancisoSilva/Downloads/Certificado.pdf)](file:///C:/Users/FrancisoSilva/Downloads/Certificado.pdf)
 [![Certificação 2](URL_da_imagem_da_certificação_2)](URL_do_certificado_2)
 [![Certificação 3](URL_da_imagem_da_certificação_3)](URL_do_certificado_3)
 
