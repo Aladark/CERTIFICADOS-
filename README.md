@@ -1,4 +1,4 @@
-# CERTIFICADOS-
+# CERTIFICADOS
 TODOS OS MEUS CERTIFICADO DE CURSOS E FACULDADE ENTRE OUTROS. 
 
 # Olá, sou [FRANCISCO ALANO LIMA DA SILVA] 👋
@@ -20,7 +20,7 @@ ANDROID STUDIO](https://github.com/Aladark/CERTIFICADOS-/blob/main/Certificado.p
  ORIENTADO A OBJETOS UTILIZANDO A LINGUAGEM PYTHON](https://github.com/Aladark/CERTIFICADOS-/blob/main/Escola%20Virtual%20-%20Funda%C3%A7%C3%A3o%20Bradesco%20-%20Orientado%20a%20Obejetos%20Utilizando%20Linguagem%20Python.pdf)  
  
 [FUNDAMENTOS DE
- LÓGICA DE PROGRAMAÇÃO](URL_do_certificado_3)  
+ LÓGICA DE PROGRAMAÇÃO](https://github.com/Aladark/CERTIFICADOS-/blob/main/Escola%20Virtual%20-%20Funda%C3%A7%C3%A3o%20Bradesco.pdf)  
 
 *Observação: Clique nas links para visualizar os certificados completos.*
 
