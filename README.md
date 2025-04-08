@@ -18,7 +18,7 @@ ANDROID STUDIO](https://github.com/Aladark/CERTIFICADOS-/blob/main/Certificado.p
 [![Certificação 2](URL_da_imagem_da_certificação_2)](URL_do_certificado_2)
 [![Certificação 3](URL_da_imagem_da_certificação_3)](URL_do_certificado_3)
 
-*Observação: Clique nas imagens para visualizar os certificados completos.*
+*Observação: Clique nas links para visualizar os certificados completos.*
 
 ## Habilidades e Tecnologias
 
