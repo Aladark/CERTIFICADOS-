@@ -1,13 +1,13 @@
 # CERTIFICADOS-
 TODOS OS MEUS CERTIFICADO DE CURSOS E FACULDADE ENTRE OUTROS. 
 
-# Olá, sou [Seu Nome] 👋
+# Olá, sou [FRANCISCO ALANO LIMA DA SILVA] 👋
 
 ![Perfil](URL_da_sua_imagem_de_perfil)
 
 ## Sobre Mim
 
-Sou um profissional de TI especializado em cibersegurança, com experiência em diversas áreas tecnológicas. Apaixonado por tecnologia e segurança da informação, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
+Sou um profissional de TI especializado com experiência em diversas áreas tecnológicas. Apaixonado por tecnologia e segurança da informação, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos.
 
 ## Certificações
 
@@ -22,8 +22,7 @@ Abaixo estão algumas das certificações que obtive ao longo da minha carreira:
 ## Habilidades e Tecnologias
 
 - **Linguagens de Programação:** Python, JavaScript, C++
-- **Ferramentas de Cibersegurança:** Wireshark, Metasploit, Nessus
-- **Sistemas Operacionais:** Linux, Windows, macOS
+- **Sistemas Operacionais:** Linux, Windows
 - **Redes e Protocolos:** TCP/IP, HTTP, DNS
 
 ## Projetos Destacados
@@ -38,7 +37,6 @@ Descrição breve do projeto, tecnologias utilizadas e seu papel nele.
 
 ## Contato
 
-- **Email:** seuemail@example.com
 - **LinkedIn:** [Seu Perfil no LinkedIn](URL_do_linkedin)
 - **Twitter:** [@SeuPerfil](URL_do_twitter)
 
